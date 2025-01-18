@@ -4,6 +4,7 @@ Calculating the difference between the maximum and minimum prices for each of th
 SELECT 
 	
  name,
+   
     MAX(price)-MIN(price) AS min_max_diff
 
 FROM
