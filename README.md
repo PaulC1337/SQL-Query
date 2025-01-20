@@ -1,4 +1,4 @@
-# Date type SQL-Query
+# SQL price gap analysis for 06/10/19
 Calculating the difference between the maximum and minimum prices for each of the products in the 'milk' category on June 10, 2019. where I am naming the variable max_min_diff.  While converting date values from strings to the date type. while print the product name and the difference between the maximum and minimum price. 
 
 SELECT 
